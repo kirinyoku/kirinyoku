@@ -1,12 +1,8 @@
 ### hey, i'm oleksandr
 
-<br>
-
 used to do frontend, fell in love with go, switched to backend. still learning backend and devops, basically larping until someone notices.
 
 i build things for myself and whatever community i'm spending too much time in.
-
-<br>
 
 #### live
 
